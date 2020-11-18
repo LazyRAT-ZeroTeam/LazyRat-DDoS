@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/LazyRAT-ZeroTeam/LazyRat-DDoS.git
+### git clone https://github.com/LazyRAT-ZeroTeam/LazyRat-DDoS
 
 ### cd LazyRat-DDoS
 
